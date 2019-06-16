@@ -1,0 +1,1 @@
+# TeBeCo.AspNetCoreScaffolding.Analyzer
