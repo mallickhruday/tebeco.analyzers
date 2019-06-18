@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Product>tebeco.analyzers</Product>
+    <Copyright>Copyright (c) TeBeCo</Copyright>
+  </PropertyGroup>
+</Project>

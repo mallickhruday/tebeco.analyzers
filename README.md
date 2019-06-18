@@ -1,1 +1,1 @@
-# TeBeCo.AspNetCoreScaffolding.Analyzer
+# tebeco.analyzers
